@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;700&display=swap');
+
 body {
   background-color: aliceblue;
+}
+
+* {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+.nav-link {
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+}
+
+h1 {
+  font-size: 3em;
+  letter-spacing: -2px;
 }
